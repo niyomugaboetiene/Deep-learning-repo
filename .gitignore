@@ -8,3 +8,5 @@ reviews_Cell_Phones_and_Accessories_5/
 reviews_Cell_Phones_and_Accessories_5.json.gz
 image_dataset
 saved_model
+quantized_model.tflite
+quantized_model.tflite
